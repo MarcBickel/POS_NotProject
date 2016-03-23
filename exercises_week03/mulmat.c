@@ -6,7 +6,7 @@ typedef struct Matrices_struct {
 	int lignes;
 	int colonnes;
 	double valeurs[N][N];
-} Matrice;
+} Matrice;firefo
 
 Matrice lire_matrice(void);
 Matrice multiplication(const Matrice a, const Matrice b);
